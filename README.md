@@ -11,6 +11,9 @@ Electricity production and consumption are reported as daily totals in gigawatt-
 - Solar — Solar power production in GWh
 - Wind+Solar — Sum of wind and solar power production in GWh
 
+## Requirements
+- Panda 0.23.3
+- Matplotlib 2.2.2
 
 ![This is an image](Figure_1.svg)
 
